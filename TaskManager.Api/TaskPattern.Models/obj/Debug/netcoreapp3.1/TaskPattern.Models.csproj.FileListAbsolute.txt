@@ -1,0 +1,12 @@
+D:\.NET CORE\TaskManager.Api\TaskPattern.Models\bin\Debug\netcoreapp3.1\TaskPattern.Models.deps.json
+D:\.NET CORE\TaskManager.Api\TaskPattern.Models\bin\Debug\netcoreapp3.1\TaskPattern.Models.runtimeconfig.json
+D:\.NET CORE\TaskManager.Api\TaskPattern.Models\bin\Debug\netcoreapp3.1\TaskPattern.Models.runtimeconfig.dev.json
+D:\.NET CORE\TaskManager.Api\TaskPattern.Models\bin\Debug\netcoreapp3.1\TaskPattern.Models.dll
+D:\.NET CORE\TaskManager.Api\TaskPattern.Models\bin\Debug\netcoreapp3.1\TaskPattern.Models.pdb
+D:\.NET CORE\TaskManager.Api\TaskPattern.Models\obj\Debug\netcoreapp3.1\TaskPattern.Models.csprojAssemblyReference.cache
+D:\.NET CORE\TaskManager.Api\TaskPattern.Models\obj\Debug\netcoreapp3.1\TaskPattern.Models.AssemblyInfoInputs.cache
+D:\.NET CORE\TaskManager.Api\TaskPattern.Models\obj\Debug\netcoreapp3.1\TaskPattern.Models.AssemblyInfo.cs
+D:\.NET CORE\TaskManager.Api\TaskPattern.Models\obj\Debug\netcoreapp3.1\TaskPattern.Models.csproj.CoreCompileInputs.cache
+D:\.NET CORE\TaskManager.Api\TaskPattern.Models\obj\Debug\netcoreapp3.1\TaskPattern.Models.dll
+D:\.NET CORE\TaskManager.Api\TaskPattern.Models\obj\Debug\netcoreapp3.1\TaskPattern.Models.pdb
+D:\.NET CORE\TaskManager.Api\TaskPattern.Models\obj\Debug\netcoreapp3.1\TaskPattern.Models.genruntimeconfig.cache
